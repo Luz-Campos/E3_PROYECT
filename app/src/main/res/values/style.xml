@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para el SearchView -->
+    <style name="CustomSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:background">@android:color/white</item> <!-- Fondo blanco -->
+        <item name="android:queryBackground">@android:color/transparent</item> <!-- Fondo de consulta transparente -->
+        <item name="android:textColor">@android:color/black</item> <!-- Color del texto negro -->
+    </style>
+</resources>
